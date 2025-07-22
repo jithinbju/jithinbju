@@ -1,68 +1,48 @@
-<h1 align="center">Hi 👋, I'm Jithin</h1>
-<h3 align="center">🚀 Flutter Developer | 🎯 Dart Enthusiast | 🎨 UI/UX Focused</h3>
+<h1 align="center">Hi there, I'm <span style="color:#36BCF7">Jithin</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Building+beautiful+Flutter+Apps;Cross-platform+Developer;Problem+Solver+with+UI+Focus" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jithinbju&label=Profile+Views&color=brightgreen" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/jithinb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:jithinmb05@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 Welcome
 
-- 🔭 I’m currently working on a **Student Record App using Hive**
-- 🌱 I’m learning **State Management**, **Animations**, and **Advanced Dart**
-- 👨‍💻 All of my projects are available at: [My GitHub Projects](https://github.com/jithinbju)
-- 📫 Reach me: **jithinmb05@gmail.com**
-- 💬 Ask me about **Flutter, Dart, Hive, SharedPreferences, and UI Design**
+I’m a passionate **Flutter developer** who builds smooth, responsive cross-platform apps using Dart and beautiful UIs. I enjoy converting complex designs into user-friendly applications.
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/jithinb" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+## 📚 Currently Learning
+
+- 🧠 Advanced Hive database concepts  
+- 🎯 Clean Dart architecture & design patterns  
+- 🎨 Flutter animations and transitions  
+- 🔐 Firebase authentication integration  
 
 ---
 
-## 🛠️ Languages & Tools
+## 🤝 Connect with Me
+
+- 📬 **Email**: [jithinmb05@gmail.com](mailto:jithinmb05@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/jithinb](https://linkedin.com/in/jithinbju)
+
+---
+
+## 🔧 Skills & Tools
 
 <p align="center">
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/>
-  </a>
-  <a href="https://dart.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
-  </a>
-  <a href="https://hive.apache.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="50" height="50"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/>
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="50"/>
 </p>
 
 ---
@@ -70,27 +50,35 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jithinbju&show_icons=true&theme=radical" alt="Jithin GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jithinbju&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jithinbju&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jithinbju&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithinbju&layout=compact&theme=tokyonight" width="50%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jithinbju&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jithinbju&theme=tokyonight" width="80%"/>
 </p>
 
 ---
 
-## 💡 Projects in Progress
-- ✅ Flutter Todo App with Local Notifications and Animations
-- 🗃️ Hive-based Student Record App
-- 🧩 Flutter UI Kit Portfolio
-- 🧪 Experimenting with Firebase Auth + Provider
+## 🧩 Projects I'm Working On
+
+- 📱 Student Record App using Hive
+- 🎯 Firebase Auth + Provider Login Flow
+- 🛠️ Flutter UI Kit Library for Developers
+- 📝 Personal Portfolio App (Flutter Web)
 
 ---
 
-> _"Code is like humor. When you have to explain it, it’s bad."_  
-> — Let's build apps that speak for themselves!
+<p align="center">
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-working-on-computer-8373762-6662423.png" alt="coding illustration" width="300"/>
+</p>
 
+---
+
+> _“Code is poetry. I like to make my apps speak beautifully through pixels.”_
+
+---

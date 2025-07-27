@@ -41,13 +41,11 @@ I’m a passionate **Flutter developer** who builds smooth, responsive cross-pla
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="50"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+
 
 
 
@@ -59,20 +57,6 @@ I’m a passionate **Flutter developer** who builds smooth, responsive cross-pla
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jithinbju&theme=tokyonight" width="80%"/>
 </p>
 
----
-
-## 🧩 Projects I'm Working On
-
-- 📱 Student Record App using Hive
-- 🎯 Firebase Auth + Provider Login Flow
-- 🛠️ Flutter UI Kit Library for Developers
-- 📝 Personal Portfolio App (Flutter Web)
-
----
-
-<p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/programmer-working-on-computer-8373762-6662423.png" alt="coding illustration" width="300"/>
-</p>
 
 ---
 

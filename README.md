@@ -1,65 +1,67 @@
-<h1 align="center">Hi there, I'm <span style="color:#36BCF7">Jithin</span> 👋</h1>
+# Hi 👋, I'm Jithin B
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jithinb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:jithinmb05@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNpeThudm92cDFqOGxqOWZkc2J5OHVma3l0bzB5eHdvYzNhcHlpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" alt="Typing Dog" />
+</p>
+
+### 🚀 Flutter Developer
+
+📱 Deep diving into the world of Flutter — crafting beautiful UIs, building scalable apps, and learning something new every day.<br>
+
+🧠 Completed Dart fundamentals, now exploring advanced Flutter concepts to become a master in cross-platform mobile development.<br>
+
+📫 Got a project idea, collab request, or just want to talk widgets and state management? Let’s connect: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Jithinmb05@gmail.com" target="_blank">Jithinmb05@gmail.com</a><br>
+
+🎯 Fun fact: When I’m not coding in Flutter, I’m probably fixing hot reload issues or redesigning my UI for the 10th time!<br>
+
+---
+
+### 🛠️ Technologies & Tools I Work With
+
+<table>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="55" /><br>Flutter</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dart" alt="Dart" width="55" /><br>Dart</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="55" /><br>Figma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="55" /><br>HTML5</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="55" /><br>CSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="55" /><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="55" /><br>Python</td>
+  </tr>
+</table>
+
+---
+
+### 📈 Stats & Contributions
+
+#### 🔧 GitHub Contributions
+<p>
+  <img src="https://ghchart.rshah.org/jithinbju" alt="GitHub chart" />
+</p>
+
+#### 🧠 LeetCode Stats
+<p>
+  <img src="https://leetcard.jacoblin.cool/JithinB_?ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
 
-## 👋 Welcome
+### 🔗 Connect With Me
 
-I’m a passionate **Flutter developer** who builds smooth, responsive cross-platform apps using Dart and beautiful UIs. I enjoy converting complex designs into user-friendly applications.
-
----
-
-## 📚 Currently Learning
-
-- 🧠 Advanced Hive database concepts  
-- 🎯 Clean Dart architecture & design patterns  
-- 🎨 Flutter animations and transitions  
-- 🔐 Firebase authentication integration  
-
----
-
-## 🤝 Connect with Me
-
-- 📬 **Email**: [jithinmb05@gmail.com](mailto:jithinmb05@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/jithinb](https://linkedin.com/in/jithinbju)
-
----
-
-## 🔧 Skills & Tools
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50"/>
+<p>
+  <a href="https://www.linkedin.com/in/jithinbju" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
+  </a>
+  &nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=Jithinmb05@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="30"/>
+  </a>
+  &nbsp;
+  <a href="https://wa.me/916238545152" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="WhatsApp" width="30"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/jithinbju" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30"/>
+  </a>
 </p>
-
----
-
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithinbju&layout=compact&theme=tokyonight" width="50%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jithinbju&theme=tokyonight" width="80%"/>
-</p>
-
-
----
-
-> _“Code is poetry. I like to make my apps speak beautifully through pixels.”_
-
----

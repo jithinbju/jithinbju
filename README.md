@@ -1,138 +1,92 @@
-# Hi 👋, I'm Jithin B
+Hi 👋, I'm Jithin B
+<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNpeThudm92cDFqOGxqOWZkc2J5OHVma3l0bzB5eHdvYzNhcHlpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width="260"/> </p>
+Flutter Developer
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNpeThudm92cDFqOGxqOWZkc2J5OHVma3l0bzB5eHdvYzNhcHlpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vzO0Vc8b2VBLi/giphy.gif" width="250"/>
-</p>
+Flutter developer focused on building scalable cross-platform mobile applications with clean architecture and maintainable code.
 
-## 🚀 Flutter Developer
+My work focuses on:
 
-Flutter developer focused on building **scalable cross-platform mobile applications** with clean architecture and maintainable code.
+Flutter UI development with responsive layouts
 
-I specialize in:
+REST API integration and backend communication
 
-- Flutter UI development with **responsive layouts**
-- **REST API integration** and backend communication
-- **Firebase services** (Authentication & Firestore)
-- **State management using Provider**
-- **Offline data persistence using Hive**
-- Writing maintainable code using **MVVM / clean architecture**
+Firebase services (Authentication & Firestore)
 
----
+State management using Provider
 
-# 🛠 Tech Stack
+Offline data persistence using Hive
 
-### 📱 Mobile Development
-<p>
-<img src="https://skillicons.dev/icons?i=flutter" height="45"/>
-<img src="https://skillicons.dev/icons?i=dart" height="45"/>
-</p>
+Writing maintainable code using MVVM / clean architecture
 
-### 🔗 Backend Integration
-<p>
-<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
-<img src="https://skillicons.dev/icons?i=postman" height="45"/>
-</p>
+🛠 Tech Stack
+Mobile Development
 
-### 🔄 State Management
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45"/>
-</p>
+Flutter
+
+Dart
+
+Backend Integration
+
+REST APIs
+
+Firebase (Authentication, Firestore)
+
+State Management
 
 Provider
 
-### 💾 Local Storage
-<p>
-<img src="https://raw.githubusercontent.com/hivedb/hive/master/.github/logo.png" height="45"/>
-</p>
+Local Storage
 
-Hive • SharedPreferences
+Hive
 
-### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-<img src="https://skillicons.dev/icons?i=figma" height="45"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
-</p>
+SharedPreferences
 
----
+Tools
 
-# 🚀 Projects
+Git
 
-## 📌 Medicine Reminder App
-**Flutter • Hive • Provider • Local Notifications**
+GitHub
 
-Features:
-- Offline-first medicine reminder application
-- Daily, weekly, and custom reminder schedules
-- Track missed doses and medication history
-- Hive local database for fast data storage
-- Local notification scheduling
+Postman
 
----
+Figma
 
-## 📌 Crop Advisory App
-**Flutter • REST API • Weather API**
+🚀 Projects
+Medicine Reminder App
 
-Features:
-- Fetch real-time weather data
-- Analyze temperature, humidity, and rainfall
-- Provide farming recommendations
-- API integration with JSON parsing
+Flutter • Hive • Provider • Local Notifications
 
----
+Offline-first medicine reminder application
 
-## 📌 Firebase Chat Application
-**Flutter • Firebase • Firestore**
+Schedule daily, weekly, and custom reminders
 
-Features:
-- Real-time one-to-one messaging
-- Firebase Authentication (Google / Email)
-- Firestore database for live chat updates
-- Responsive chat UI
+Track missed doses and medication history
 
----
+Uses Hive local database for fast offline storage
 
-# 📊 GitHub Activity
+Crop Advisory App
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jithinbju&show_icons=true&theme=tokyonight"/>
-</p>
+Flutter • REST API • Weather API
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jithinbju&theme=tokyonight"/>
-</p>
+Fetches real-time weather data
 
----
+Analyzes temperature, humidity, and rainfall
 
-# 📈 Contribution Graph
+Provides farming recommendations based on weather conditions
 
-<p align="center">
-<img src="https://ghchart.rshah.org/jithinbju"/>
-</p>
+Firebase Chat Application
 
----
+Flutter • Firebase • Firestore
 
-# 📫 Connect With Me
+Real-time one-to-one chat application
 
-<p>
-<a href="https://www.linkedin.com/in/jithinbju" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
-</a>
+Firebase authentication (Google / Email)
 
-<a href="mailto:jithinmb05@gmail.com">
-<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35"/>
-</a>
+Firestore database for real-time messaging
 
-<a href="https://github.com/jithinbju" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
-</a>
+Responsive chat UI with live updates
 
-<a href="https://wa.me/7558810680">
-<img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" width="35"/>
-</a>
-</p>
-
----
-
-⭐ *Always open to Flutter opportunities and collaborations.*
+📊 GitHub Activity
+<p> <img src="https://ghchart.rshah.org/jithinbju" alt="GitHub chart"/> </p>
+📫 Connect With Me
+<p> <a href="https://www.linkedin.com/in/jithinbju" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/> </a> <a href="mailto:jithinmb05@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/> </a> <a href="https://github.com/jithinbju" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> </a> <a href="https://wa.me/7558810680"> <img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" width="30"/> </a> </p>
